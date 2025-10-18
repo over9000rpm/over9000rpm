@@ -1,4 +1,4 @@
-![Image](takashi-miyazaki-q2bHGRyJH64-unsplash(edited).png).jpg)
+![Image](takashi-miyazaki-q2bHGRyJH64-unsplash(edited).png)
       
 # MAINTENANCE
 
