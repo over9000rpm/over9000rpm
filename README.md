@@ -7,7 +7,7 @@
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=over9000rpm&show_icons=true&theme=dark&hide_border=true)
 &nbsp; &nbsp; &nbsp; &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?over9000rpm=yourname&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=over9000rpm&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
