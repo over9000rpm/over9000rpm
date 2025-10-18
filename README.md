@@ -21,7 +21,7 @@
 </div>
 
 ## 📈 Streak & Activity
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=over9000rpm&theme=kanagawa)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=over9000rpm&theme=dark)
 
 
 ### Credits (Image at the top)
