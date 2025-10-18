@@ -1,21 +1,9 @@
-
-
-## Skills
-![Static Badge](https://img.shields.io/badge/-Rust-%23000000?style=flat&logo=rust&logoColor=%23DEA584)
-![over9000rpm](https://img.shields.io/badge/over9000rpm-DEA584?style=flat&logo=rust&logoColor=black)
-
-## 📊 GitHub Stats
 <div align="center">
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=over9000rpm&show_icons=true&theme=dark&hide_border=true)
-&nbsp; &nbsp; &nbsp; &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=over9000rpm&layout=compact&theme=dark&hide_border=true)
+# Hi, I'm Yuri!
+
+![over9000rpm](https://img.shields.io/badge/over9000rpm-DEA584?style=flat&logoColor=black)  
+**Rust Engineer | High-Performance Systems | {Location}**  
+*Building at over 9000 RPM...*
 
 </div>
-
-## 📈 Streak & Activity
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=over9000rpm&theme=dark)
-
-
-### Credits (Image at the top)
-Photo by <a href="https://unsplash.com/@miyatankun?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Takashi Miyazaki</a> on <a href="https://unsplash.com/photos/blue-and-white-light-digital-wallpaper-q2bHGRyJH64?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
