@@ -2,6 +2,10 @@
       
 # MAINTENANCE
 
+## Skills
+![Static Badge](https://img.shields.io/badge/-Rust-%23000000?style=flat&logo=rust&logoColor=%23DEA584)
+
+
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -17,5 +21,3 @@
 
 ### Credits (Image at the top)
 Photo by <a href="https://unsplash.com/@miyatankun?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Takashi Miyazaki</a> on <a href="https://unsplash.com/photos/blue-and-white-light-digital-wallpaper-q2bHGRyJH64?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      
-
