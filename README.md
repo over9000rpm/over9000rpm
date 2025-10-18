@@ -1,3 +1,3 @@
-![Image](takashi-miyazaki-HAzLbiwq0j0-unsplash.jpg)
+![Image](takashi-miyazaki-q2bHGRyJH64-unsplash.jpg)
 
 # MAINTENANCE
