@@ -15,7 +15,7 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=over9000rpm&theme=kanagawa)
 
 
-Credits (Image at the top)
+### Credits (Image at the top)
 Photo by <a href="https://unsplash.com/@miyatankun?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Takashi Miyazaki</a> on <a href="https://unsplash.com/photos/blue-and-white-light-digital-wallpaper-q2bHGRyJH64?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       
 
