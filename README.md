@@ -3,10 +3,13 @@
 # MAINTENANCE
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=over9000rpm&show_icons=true&theme=dark)  
+<div align="center">
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=over9000rpm&layout=compact&theme=aqua)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=dark&hide_border=true)
+&nbsp; &nbsp; &nbsp; &nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ## 📈 Streak & Activity
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=over9000rpm&theme=kanagawa)
