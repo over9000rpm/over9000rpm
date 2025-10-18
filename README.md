@@ -9,7 +9,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=over9000rpm&layout=compact&theme=radical)
 
 ## 📈 Streak & Activity
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=yourname&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=over9000rpm&theme=radical)
 
 ## 🏆 Achievements
 - [Badge for Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-blue)
