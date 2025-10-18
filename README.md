@@ -2,15 +2,6 @@
       
 # MAINTENANCE
 
-## 📊 More About Me
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=over9000rpm&theme=dark)
-&nbsp; &nbsp;
-
-</div>
-
 ## 📊 GitHub Stats
 <div align="center">
 
