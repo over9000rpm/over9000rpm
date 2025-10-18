@@ -3,7 +3,7 @@
 # MAINTENANCE
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=over9000rpm&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=over9000rpm&show_icons=true&theme=kanagawa)  
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=over9000rpm&layout=compact&theme=radical)
