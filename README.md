@@ -2,6 +2,16 @@
       
 # MAINTENANCE
 
+## 📊 More About Me
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=over9000rpm&theme=radical)
+&nbsp; &nbsp;
+![Visitors](https://visit-counter.itsvg.in/api?id=over9000rpm&label=Profile%20Views&color=1&style=for-the-badge&labelColor=grey&countColor=7fd5ea)
+
+</div>
+
 ## 📊 GitHub Stats
 <div align="center">
 
