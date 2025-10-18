@@ -1,6 +1,4 @@
-![Image](takashi-miyazaki-q2bHGRyJH64-unsplash(edited).png)
-      
-# MAINTENANCE
+
 
 ## Skills
 ![Static Badge](https://img.shields.io/badge/-Rust-%23000000?style=flat&logo=rust&logoColor=%23DEA584)
