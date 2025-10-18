@@ -5,9 +5,9 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=dark&hide_border=true)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=over9000rpm&show_icons=true&theme=dark&hide_border=true)
 &nbsp; &nbsp; &nbsp; &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?over9000rpm=yourname&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
