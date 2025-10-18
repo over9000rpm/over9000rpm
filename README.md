@@ -2,7 +2,7 @@
 
 ## Skills
 ![Static Badge](https://img.shields.io/badge/-Rust-%23000000?style=flat&logo=rust&logoColor=%23DEA584)
-
+![over9000rpm](https://img.shields.io/badge/over9000rpm-DEA584?style=flat&logo=rust&logoColor=black)
 
 ## 📊 GitHub Stats
 <div align="center">
